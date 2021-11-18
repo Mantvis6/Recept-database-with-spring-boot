@@ -1,0 +1,17 @@
+h1 {
+    text-decoration: underline;
+}
+.melynas-tekstas {
+    color: blue;
+}
+.pasvires-raudonas-tekstas{
+    color: red;
+    font-style: italic;
+}
+.padidintas-langelis{
+    height: 100px;
+    width: 30%;
+}
+button{
+    margin-top: 20px;
+}
